@@ -319,9 +319,11 @@
 				TargetAttributes = {
 					CB4D56981AC169A3006715E8 = {
 						CreatedOnToolsVersion = 6.3;
+						LastSwiftMigration = 0800;
 					};
 					CB4D56A31AC169A3006715E8 = {
 						CreatedOnToolsVersion = 6.3;
+						LastSwiftMigration = 0800;
 					};
 					CBE36D081AC44BA000CFE10F = {
 						CreatedOnToolsVersion = 6.3;
@@ -539,6 +541,7 @@
 				PRODUCT_NAME = SwiftyStateMachine;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -557,6 +560,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "net.macoscope.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = SwiftyStateMachine;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -576,6 +580,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.macoscope.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = SwiftyStateMachineTests;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -591,6 +596,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.macoscope.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = SwiftyStateMachineTests;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
